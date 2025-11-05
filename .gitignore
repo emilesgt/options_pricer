@@ -1,0 +1,23 @@
+# Ignorer les fichiers générés lors de la compilation
+*.exe
+*.out
+*.obj
+*.o
+*.a
+*.so
+*.dll
+*.lib
+*.pdb
+
+# Dossiers de build
+/build/
+/bin/
+/Debug/
+/Release/
+
+# VS Code
+.vscode/
+
+# Fichiers temporaires / logs
+*.log
+*.tmp
