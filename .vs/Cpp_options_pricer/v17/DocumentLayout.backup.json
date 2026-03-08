@@ -1,7 +1,11 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Emile\\Desktop\\code\\Cpp_options_pricer\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A15AE1CD-74DF-434F-A7BD-B43CED2B3570}|Cpp_options_pricer\\Cpp_options_pricer.vcxproj|C:\\Users\\Emile\\Desktop\\code\\C\u002B\u002B_option_pricer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +13,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +30,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Emile\\Desktop\\code\\C\u002B\u002B_option_pricer\\main.cpp",
+              "RelativeDocumentMoniker": "..\\C\u002B\u002B_option_pricer\\main.cpp",
+              "ToolTip": "C:\\Users\\Emile\\Desktop\\code\\C\u002B\u002B_option_pricer\\main.cpp*",
+              "RelativeToolTip": "..\\C\u002B\u002B_option_pricer\\main.cpp*",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAiwBoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-08T19:26:10.523Z",
+              "EditorCaption": ""
             }
           ]
         }
